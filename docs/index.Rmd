@@ -1,0 +1,33 @@
+---
+title: 'Mexican economic outlook'
+author: "Oscar García-Cervantes"
+date: "`r format(Sys.time(), '%A %d de %B, %Y')`"
+output:
+     html_document:
+           toc: true
+           toc_float:
+                   collapsed: false
+                   smooth_scroll: false
+           toc_depth: 3       
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.align = 'center', echo = TRUE)
+```
+
+# Country data
+
+
+
+# Key facts
+
+
+
+# Risks
+
+
+# Green trasition 
