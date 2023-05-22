@@ -1,5 +1,5 @@
 ---
-title: 'Mexican economic outlook'
+title: 'Panorama económico México 2023'
 author: "Oscar García-Cervantes"
 date: "`r format(Sys.time(), '%A %d de %B, %Y')`"
 output:
@@ -14,20 +14,26 @@ editor_options:
     wrap: 72
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(fig.align = 'center', echo = TRUE)
+library(tidyverse)
 ```
 
-# Country data
+# Factores clave
+
+* Se estima que el crecimiento de la economía mexicana durante 2023 sea 2.9% (2.8% - 3%)
+* La economía recuperó su nivel prepandemia pero aún no recupera el nivel de 2018. Además en términos per cápita aún existe un rezago respecto a los niveles de 2020.
+* 
 
 
 
-# Key facts
+# Trends
 
+```{r, warning=FALSE, echo = FALSE}
+
+```
+ 
 
 
 # Risks
-
-
-# Green trasition 
